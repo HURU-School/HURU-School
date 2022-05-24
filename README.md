@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HURU-School
+- 👋 Hi, We are @HURU-School
 - 📫 How to reach us: www.huruschool.org
 
 <!---
